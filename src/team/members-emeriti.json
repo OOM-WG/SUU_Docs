@@ -1,0 +1,57 @@
+[
+  {
+    "gender": 1,
+    "location": "China",
+    "name": "YumeYuka",
+    "qq": 3293811490,
+    "title": "Tritium",
+    "languages": ["English", "Chinese", "日本语"],
+    "website": {
+      "label": "YumeYuka.cn",
+      "url": "https://YumeYuka.cn"
+    },
+    "company": "梦——それは现実の続き；现実——それは梦の终わり",
+    "companyLink": "https://github.com/YumeYuka",
+    "projects": [
+      {
+        "label": "SUU_Docs",
+        "url": "https://github.com/YumeYuka/SUU_Docs"
+      }
+    ],
+    "socials": {
+      "github": "YumeYuka"
+    }
+  },
+  {
+    "gender": 1,
+    "location": "China",
+    "name": "诺方",
+    "qq": 991921514,
+    "title": "涩涩精神支持",
+    "languages": ["Chinese"],
+    "companyLink": "https://github.com/nuofang6",
+    "socials": {
+      "github": "nuofang6"
+    }
+  },
+  {
+    "gender": 2,
+    "location": "China",
+    "name": "Linso",
+    "qq": 3042627767,
+    "title": "KFlash ",
+    "languages": ["Chinese"],
+    "socials": {
+    }
+  },
+  {
+    "gender": 3,
+    "location": "China",
+    "name": "希镰",
+    "qq": 1218411436,
+    "title": "希尔爱好者&软件名称挑选者 ",
+    "languages": ["Chinese"],
+    "company": "无",
+    "socials": {}
+  }
+]
