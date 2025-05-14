@@ -5,13 +5,17 @@
     "qq": 1520382842,
     "title": "安音家家主",
     "company": "可怖的心，骇人的行，如何是好；每日的辛，终无的幸，哪得逃掉？",
-    "companyLink": "http://saki.ja7.top",
+    "companyLink": "https://saki.ja7.top",
     "languages": [
       "简中",
       "正中(Lite)",
       "EN(Lite)",
       "日本語(Lite-)"
     ],
+    "website": {
+      "label": "安音家",
+      "url": "https://saki.ja7.top"
+    },
     "projects": [
       {
         "label": "NGA",
