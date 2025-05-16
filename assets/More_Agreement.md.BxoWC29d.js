@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BRJLl4HC.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"More/Agreement.md","filePath":"More/Agreement.md","lastUpdated":1747426833000}'),a={name:"More/Agreement.md"};function o(n,s,c,m,d,p){return r(),t("div")}const f=e(a,[["render",o]]);export{i as __pageData,f as default};
