@@ -1,0 +1,107 @@
+[
+	{
+		"gender": 1,
+		"location": "中国",
+		"name": "安音咲汀",
+		"qq": 1520382842,
+		"title": "用户空间实现作者",
+		"company": "可怖的心，骇人的行，如何是好；每日的辛，终无的幸，哪得逃掉？",
+		"companyLink": "https://saki.ja7.top",
+		"languages": ["中文", "English"],
+		"website": {
+			"label": "安音家",
+			"url": "https://saki.ja7.top"
+		},
+		"projects": [
+			{
+				"label": "NGA",
+				"url": "http://app.niggergo.work"
+			},
+			{
+				"label": "FVV",
+				"url": "https://github.com/OOM-WG/FVV"
+			}
+		],
+		"socials": {
+			"github": "TianwanTW",
+			"x": "Ling_Xi_Zi"
+		}
+	},
+	{
+		"location": "中国·山东",
+		"name": "Linso",
+		"qq": 3042627767,
+		"title": "内核实现作者",
+		"company": "PrintX/曼珠沙华/秋乐",
+		"languages": ["简体中文", "English"],
+		"website": {
+			"label": "Linso",
+			"url": "https://linso.top"
+		},
+		"socials": {
+			"github": "Linso05"
+		}
+	},
+	{
+		"location": "中国·山东",
+		"name": "YumeYuka",
+		"qq": 3293811490,
+		"title": "霊の編纂者 ",
+		"languages": ["简体中文", "English", "日本語"],
+		"website": {
+			"label": "YumeYuka++",
+			"url": "https://www.yumeyuka.plus"
+		},
+		"company": "梦——それは现実の続き；现実——それは梦の终わり",
+		"companyLink": "https://github.com/YumeYuka",
+		"projects": [
+			{
+				"label": "SUU Nyanya",
+				"url": "https://github.com/OOM-WG/SUU-Nyanya"
+			},
+			{
+				"label": "Tritium box",
+				"url": "https://github.com/TimeBreeze/Tritium_box"
+			}
+		],
+		"socials": {
+			"github": "YumeYuka"
+		}
+	},
+	{
+		"location": "中国·浙江",
+		"name": "枫莹",
+		"qq": 236171472,
+		"title": "文档协作",
+		"languages": ["简体中文", "English"],
+		"website": {
+			"label": "miao520.fun",
+			"url": "https://www.miao520.fun"
+		},
+		"company": "zzZ.....",
+		"companyLink": "https://github.com/FengYing1314",
+		"projects": [
+			{
+				"label": "grok-api-proxy",
+				"url": "https://github.com/FengYing1314/grok-api-proxy"
+			},
+			{
+				"label": "OriginiumSeal",
+				"url": "https://github.com/FengYing1314/astrbot_plugin_OriginiumSeal"
+			}
+		],
+		"socials": {
+			"github": "FengYing1314"
+		}
+	},
+	{
+		"location": "中国·江西",
+		"name": "悠栾",
+		"qq": 991921514,
+		"title": "文档协作",
+		"languages": ["简体中文", "English"],
+		"socials": {
+			"github": "NuoFang6"
+		}
+	}
+]
